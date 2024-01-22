@@ -1,6 +1,6 @@
-name: Run Tests
+Pelambrds/linguist: Run Tests
 
-on:
+on: pelambres084@gmail.com
   # Trigger the workflow on push or pull request, but only for the master branch
   push:
     branches:
